@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="watch">WATCH</string>
+    <string name="anchor">ANCHOR</string>
+    <string name="start_now">Start Now</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="countdown">Countdown</string>
+    <string name="_02_30">02:30</string>
+</resources>
